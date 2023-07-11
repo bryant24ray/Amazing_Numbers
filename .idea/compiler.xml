@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Amazing_Numbers.Amazing_Numbers-task-build-classes-java.main" target="11" />
+      <module name="Amazing_Numbers.Amazing_Numbers-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Amazing_Numbers.Amazing_Numbers-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Amazing_Numbers.Amazing_Numbers-task-build-reports-tests.main" target="11" />
+      <module name="Amazing_Numbers.Amazing_Numbers-task-build-test-results.main" target="11" />
+      <module name="Amazing_Numbers.Amazing_Numbers-task-build-tmp.main" target="11" />
+      <module name="Amazing_Numbers.Amazing_Numbers-task.main" target="11" />
+      <module name="Amazing_Numbers.Topics-Enums_in_Java-Currencies.main" target="11" />
+      <module name="Amazing_Numbers.Topics-Enums_in_Java-Days_of_week.main" target="11" />
+      <module name="Amazing_Numbers.Topics-Enums_in_Java-Theory.main" target="11" />
+      <module name="Amazing_Numbers.Topics-Fields_and_methods_in_enum-Balance_management.main" target="11" />
+      <module name="Amazing_Numbers.Topics-Fields_and_methods_in_enum-System_of_units.main" target="11" />
+      <module name="Amazing_Numbers.Topics-Fields_and_methods_in_enum-Theory.main" target="11" />
+      <module name="Amazing_Numbers.Topics-StringBuilder-Create_an_email.main" target="11" />
+      <module name="Amazing_Numbers.Topics-StringBuilder-Love_of_big_letters.main" target="11" />
+      <module name="Amazing_Numbers.Topics-StringBuilder-Multiple_modifications.main" target="11" />
+      <module name="Amazing_Numbers.Topics-StringBuilder-Theory.main" target="11" />
+      <module name="Amazing_Numbers.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
